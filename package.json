@@ -1,0 +1,22 @@
+{
+  "name": "s.str",
+  "version": "1.0.0",
+  "description": "S.str - Strings",
+  "main": "s.str.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macton/S.str.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/macton/S.str/issues"
+  },
+  "homepage": "https://github.com/macton/S.str#readme",
+  "dependencies": {
+    "s": "macton/S"
+  }
+}
